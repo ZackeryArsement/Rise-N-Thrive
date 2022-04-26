@@ -31,3 +31,9 @@
 .mb1{
     margin-bottom: 1rem;
 }
+
+@media screen and (max-width: 984px) {
+    .penguin{
+        display: none;
+    }
+} 

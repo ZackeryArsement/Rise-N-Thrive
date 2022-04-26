@@ -21,8 +21,7 @@
 
 
 ## Links
-[URL to deployed application]() <br>
-[URL to GitHub repository](https://github.com/romeodixonll/Project-3)
+ - ### [Deployed Application](https://rise-n-thrive-zja.herokuapp.com/)
 
 ## Technologies
 ![Javascript logo](/assets/images/javascript-logo.png)

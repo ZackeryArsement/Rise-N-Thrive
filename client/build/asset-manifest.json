@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf6c254b.css",
-    "main.js": "/static/js/main.105bf518.js",
+    "main.css": "/static/css/main.7b30a8db.css",
+    "main.js": "/static/js/main.a7171959.js",
     "static/media/yodel.png": "/static/media/yodel.1fa04702264ca66c9e11.png",
     "static/media/algorithm-black.png": "/static/media/algorithm-black.5576492585866fe9f773.png",
     "static/media/algorithm-white.png": "/static/media/algorithm-white.2064b2eedf4ae5c304ba.png",
@@ -24,11 +24,11 @@
     "static/media/penguin-game.png": "/static/media/penguin-game.cb58a98ec21eff6e915c.png",
     "static/media/question-mark.png": "/static/media/question-mark.e99016679957740cc02d.png",
     "index.html": "/index.html",
-    "main.cf6c254b.css.map": "/static/css/main.cf6c254b.css.map",
-    "main.105bf518.js.map": "/static/js/main.105bf518.js.map"
+    "main.7b30a8db.css.map": "/static/css/main.7b30a8db.css.map",
+    "main.a7171959.js.map": "/static/js/main.a7171959.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf6c254b.css",
-    "static/js/main.105bf518.js"
+    "static/css/main.7b30a8db.css",
+    "static/js/main.a7171959.js"
   ]
 }

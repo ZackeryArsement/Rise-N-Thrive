@@ -49,4 +49,41 @@ li:hover,
     gap: 20px;
 }
 
+@media screen and (max-width: 984px) {
+    .ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: auto;
+        justify-content: center;
+        padding: 0.5rem;
+        gap: 4rem;
+    }
 
+    .ul li {
+        padding: 0;
+        margin: 0;
+    }
+
+    .ul li a div p{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .ul li a div img{
+        width: 25px;
+        height: 25px;
+    }
+} 
+
+@media screen and (max-width: 480px) {
+    .ul {
+        gap: 2rem;
+    }
+} 
+
+@media screen and (max-width: 380px) {
+    .ul {
+        gap: 0;
+    }
+} 

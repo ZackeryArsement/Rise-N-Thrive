@@ -12,10 +12,10 @@ import { ColorContext } from '../store/color-context';
 import Auth from '../components/utils/auth'
 
 const Home = () => {
-    const [textColor] = useContext(ColorContext)
+    const [textColor, , theme] = useContext(ColorContext)
 
 
-    return <div className={`${classes.flex} page`} style={{ height: '94vh'}}>
+    return <div className={`${classes.flex} page`} style={{ height: '94vh', width: "100%", backgroundColor: theme}}>
         <div className={`${classes.flex_column} ${classes.column1}`}> 
             <h1 style={{color:textColor}}>{`Good Morning, ${Auth.getProfile().data.firstName}`}</h1>
             <div className={classes.flex}>

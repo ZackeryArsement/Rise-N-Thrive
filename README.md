@@ -106,7 +106,7 @@ If you have any questions, please contact us via:
 | ----------- | ----------- | ----------- |
 | Michael Klein | [@inklein1997](https://github.com/inklein1997) | michaelklein1997@gmail.com |
 | Romeo Dixon | [@romeodixonll](https://github.com/romeodixonll) | Romeodixonll@yahoo.com|
-| Zackery Arsement | [@ZackeryArsement](https://github.com/ZackeryArsement) | arsementfarms@gmail.com
+| Zackery Arsement | [@ZackeryArsement](https://github.com/ZackeryArsement) | zarsement@hotmail.com
 |
 
 
